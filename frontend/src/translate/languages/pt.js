@@ -1,5 +1,5 @@
 const messages = {
-  nl: {
+  pt: {
     translations: {
       signup: {
         title: "Registreren",
